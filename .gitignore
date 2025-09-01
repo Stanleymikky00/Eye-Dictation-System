@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# If you want to keep media tracked by git, do NOT ignore them here.
+# If you want to ignore large media instead, uncomment below:
+# *.mp3
+# *.wav
+# *.gif
+# *.mp4
+# data/*
+# !data/README.md
