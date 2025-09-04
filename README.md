@@ -1,3 +1,4 @@
+[![GitHub release](https://img.shields.io/github/v/release/Stanleymikky00/Eye-Dictation-System)](https://github.com/Stanleymikky00/Eye-Dictation-System/releases)
 ## EYE BLINK DICTATION
 
 This project implements real-time eye blink detection and drowsiness monitoring using OpenCV and MediaPipe.
